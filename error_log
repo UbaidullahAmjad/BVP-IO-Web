@@ -1,0 +1,100 @@
+[25-May-2021 12:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::getMessage() in /home/havohi5ali55/public_html/developer/donation.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/havohi5ali55/public_html/developer/donation.php on line 55
+[25-May-2021 12:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::getMessage() in /home/havohi5ali55/public_html/developer/donation.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/havohi5ali55/public_html/developer/donation.php on line 55
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 12:44:09 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 12:45:42 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 12:52:58 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 12:53:40 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 12:56:55 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 13:05:16 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 13:07:34 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/donation.php on line 7
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/donation.php on line 8
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/donation.php on line 9
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/donation.php on line 10
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/donation.php on line 11
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/donation.php on line 12
+[25-May-2021 13:13:00 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/donation.php on line 13
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/test.php on line 3
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/test.php on line 4
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/test.php on line 5
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/test.php on line 6
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/test.php on line 7
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/test.php on line 8
+[25-May-2021 16:55:29 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/test.php on line 9
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: name in /home/havohi5ali55/public_html/developer/test.php on line 3
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: country in /home/havohi5ali55/public_html/developer/test.php on line 4
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: registration in /home/havohi5ali55/public_html/developer/test.php on line 5
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: person_name in /home/havohi5ali55/public_html/developer/test.php on line 6
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: email in /home/havohi5ali55/public_html/developer/test.php on line 7
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: amount in /home/havohi5ali55/public_html/developer/test.php on line 8
+[25-May-2021 16:59:17 UTC] PHP Notice:  Undefined index: tellus in /home/havohi5ali55/public_html/developer/test.php on line 9
+[29-May-2021 06:46:41 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 06:53:45 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 06:55:48 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 06:56:23 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 06:57:45 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 06:58:15 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:00:38 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:05:23 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:07:26 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:08:12 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:09:02 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:12:09 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:12:34 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:19:07 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 15
+[29-May-2021 07:53:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/havohi5ali55/public_html/developer/donation.php on line 123
+[29-May-2021 07:53:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/havohi5ali55/public_html/developer/donation.php on line 123
+[29-May-2021 07:53:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/havohi5ali55/public_html/developer/donation.php on line 123
+[29-May-2021 07:54:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/havohi5ali55/public_html/developer/donation.php on line 123
+[29-May-2021 07:55:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/havohi5ali55/public_html/developer/donation.php on line 123
+[29-May-2021 07:56:05 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 94
+[29-May-2021 08:00:45 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 94
+[31-May-2021 04:27:19 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/havohi5ali55/public_html/developer/donation.php on line 94
